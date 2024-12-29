@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+}
+.cancel{
+     font-size: 2.5em;
+     margin-left: 80%;
+     color: white;
+}
+.left{
+    background-color: rgb(25, 25, 150);
+    height: 100vh;
+    width: 300px;
+}
+
+#left{
+    padding-left: 60px;
+     margin-top: 27%;
+     color: white;
+}
+
+.cadaanka{
+      margin: 50px 0px;
+}
+
+.gren{
+     color: aqua;
+}
+
+.right{
+    display: flex;
+    gap: 40px;
+    margin: 30px 30px;
+    width: 50%;
+}
+
+.box1{
+      background-color: #ba1d1d;
+      width: 30%;
+      height: 20%;
+      border-bottom: yellow solid 7px;
+      text-align: center;
+      color: white;
+      padding-top: 40px;
+
+}
+
+.box1 h1{
+    
+    
+      font-size: 3em;
+}
+
+.box1 h2{
+
+    font-size: 2em;
+    
+}
+
+.box2{
+    
+    background-color: rgba(73, 228, 73, 0.958);
+    width: 30%;
+    height: 20%;
+    border-bottom: yellow solid 7px;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+      
+}
+.cadaanka{
+     display: flex;
+     gap: 18px;
+}
+.gren{
+    color: aqua;
+    display: flex;
+     gap: 18px;
+}
+ .gren i{
+        color: aqua;
+        font-size: 2em;
+ }
+i{
+     font-size: 20px;
+     color: white;
+}
+.box2 h2{
+    
+    font-size: 2.2em;
+    
+}
+ .box1 i{
+    color:cyan;
+    font-size: 1.8em;
+    
+ }
+
+ .box2 i{
+    color:cyan;
+    font-size: 1.8em;
+    
+ }
+ .box3 i{
+    color:cyan;
+    font-size: 1.8em;
+    
+ }
+.box2 h1{
+   
+    
+    font-size: 2.5em;
+    
+    
+}
+
+.box3 {
+    
+    background-color:gray;
+    width: 30%;
+      height: 20%;
+      border-bottom: yellow solid 7px;
+      text-align: center;
+      color: white;
+      padding-top: 40px;
+}
+.box3 h2{
+    
+    font-size: 1.6em;
+    
+}
+
+.box3 h1{
+    
+    
+    font-size: 2em;
+    
+}
+
